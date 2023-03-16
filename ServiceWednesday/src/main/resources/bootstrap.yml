@@ -1,7 +1,7 @@
 #bootstrap.yml
 spring:
   application:
-    name: ServiceSaturday
+    name: ServiceWednesday
   cloud:
     nacos:
       config:

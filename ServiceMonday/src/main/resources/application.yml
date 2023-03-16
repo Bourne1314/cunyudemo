@@ -39,6 +39,6 @@ spring:
 #  topic: test-demo
 #  # 不配置为订阅全部tag,多个行业用 "||" 分隔, 如："0||1||2"
 #  tag: "111"
-feign:
-  hystrix:
+ribbon:
+  eureka:
     enabled: false

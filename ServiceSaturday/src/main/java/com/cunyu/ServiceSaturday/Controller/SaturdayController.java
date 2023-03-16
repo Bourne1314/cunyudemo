@@ -38,6 +38,7 @@ public class SaturdayController {
 
     @RequestMapping(value = "feign",method = RequestMethod.GET)
     public Integer testFeign(@RequestParam Integer Id){
+        System.out.println("!");
         System.out.println(Id);
         return Id;
     }

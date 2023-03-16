@@ -17,6 +17,7 @@
         <module>ServiceMonday</module>
         <module>ServiceTuesday</module>
         <module>ServiceWednesday</module>
+        <module>ServiceSaturday</module>
     </modules>
     <description>Demo project for Spring Boot</description>
     <properties>
